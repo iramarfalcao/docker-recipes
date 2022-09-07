@@ -10,11 +10,5 @@ services:
       - "./postgres-data:/var/lib/postgresql/data"
       - "./scripts/data.sql:/docker-entrypoint-initdb.d/0.sql"
 
-  adminer:
-    image: adminer
-    restart: always
-    ports:
-      - "8081:8080"
-
 volumes:
   postgres-data:
