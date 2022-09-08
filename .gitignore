@@ -5,8 +5,12 @@ mysql/mysql-data/
 
 # Postgres
 postgres/postgres-data/
+postgres/.env
 
 # Airflow
 airflow/dags/
 airflow/plugins/
 airflow/logs/
+
+# N8N
+n8n/.env
