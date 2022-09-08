@@ -14,3 +14,9 @@ airflow/logs/
 
 # N8N
 n8n/.env
+
+# AirFlow
+airflow/dags/
+airflow/logs/
+airflow/plugins/
+airflow/.env
