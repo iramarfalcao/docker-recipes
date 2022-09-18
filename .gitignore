@@ -23,3 +23,6 @@ airflow/.env
 
 # AppWrite
 appwrite/.env
+
+# Anaconda
+anaconda/data/
