@@ -26,3 +26,7 @@ appwrite/.env
 
 # Anaconda
 anaconda/data/
+
+# Code-Server
+code-server/.env
+code-server/config
