@@ -2,6 +2,7 @@
 
 # Mysql
 mysql/mysql-data/
+mysql/.env
 
 # Postgres
 postgres/postgres-data/
